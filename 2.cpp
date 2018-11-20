@@ -8,5 +8,6 @@ int main()
 	memset(p, 0x00, sizeof(p));
 	sprintf(p, "this is a test demo.\n");
 	printf("%s\n", p);
+	printf("hello \n");
 	return 0;
 }
